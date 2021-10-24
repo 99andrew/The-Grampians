@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5k7VHajorMo_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">The Grampians</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="The_Grampians_ORG">
+    <organization identifier="The_Grampians_ORG">
+      <title>The Grampians</title>
+      <item identifier="GRAMPIANS_SCO" isvisible="true" identifierref="__5k7VHajorMo_course_id_RES">
+        <title>The Grampians</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5k7VHajorMo_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6VVTxHfeVcu_80_P_0_236_1752_1314_DX1682_DY1682_CX1132_CY849.jpg" />
+      <file href="mobile/6ECtEPTpjBA_80_DX1266_DY1266_CX680_CY65.png" />
+      <file href="mobile/6dlAy4gn2so_80_DX1366_DY1366_CX1000_CY756.png" />
+      <file href="mobile/5eZ5FhilVr4_80_DX1080_DY1080_CX716_CY849.png" />
+      <file href="mobile/5eNtnQc6iWP_80_DX222_DY222_CX161_CY139.png" />
+      <file href="mobile/5eNtnQc6iWP_80_C40_RFFBC7C_DX222_DY222_CX161_CY139.png" />
+      <file href="mobile/5zXWXDqFHCu_80_DX40_DY40_CX31_CY31.png" />
+      <file href="mobile/5xRrrpbk6NI_80_DX184_DY184_CX138_CY95.png" />
+      <file href="mobile/5xRrrpbk6NI_80_RFFBC7C_DX184_DY184_CX138_CY95.png" />
+      <file href="mobile/6Wz9Z84g6Fz_80_DX238_DY238_CX178_CY116.png" />
+      <file href="mobile/6Wz9Z84g6Fz_80_RFFBC7C_DX238_DY238_CX178_CY116.png" />
+      <file href="mobile/6MPe99j80PB_80_DX40_DY40_CX31_CY31.png" />
+      <file href="mobile/6SWu9KuG5XI_80_DX40_DY40_CX31_CY31.png" />
+      <file href="mobile/6WqYXo9e8DC_80_DX360_DY360_CX210_CY99.png" />
+      <file href="mobile/6WqYXo9e8DC_80_RFFBC7C_DX360_DY360_CX210_CY99.png" />
+      <file href="mobile/61lBE2BSMH9_80_DX40_DY40_CX31_CY31.png" />
+      <file href="mobile/6qqf9SsGibO_80_DX252_DY252_CX147_CY104.png" />
+      <file href="mobile/6qqf9SsGibO_80_RFFBC7C_DX252_DY252_CX147_CY104.png" />
+      <file href="mobile/60xdPqa2Mjb_80_DX40_DY40_CX31_CY31.png" />
+      <file href="mobile/6Ipmm1OUPic_80_DX540_DY540_CX422_CY66.png" />
+      <file href="story_content/6446HRcJk5D.js" />
+      <file href="story_content/6446HRcJk5D.png" />
+      <file href="story_content/5c7lxm9Fku2.js" />
+      <file href="story_content/5c7lxm9Fku2.jpg" />
+      <file href="story_content/66snADwMAUU.js" />
+      <file href="story_content/66snADwMAUU.jpg" />
+      <file href="story_content/6Z0YeToV3Qw.js" />
+      <file href="story_content/6Z0YeToV3Qw.jpg" />
+      <file href="story_content/67vhkeg8K9V.js" />
+      <file href="story_content/67vhkeg8K9V.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hLDX29kmcQ.js" />
+      <file href="html5/data/js/5hwYbvnPNoS.js" />
+      <file href="html5/data/js/5nC6sMvzwwS.js" />
+      <file href="html5/data/js/64upTLRsdg7.js" />
+      <file href="html5/data/js/6bxxTzS9lO2.js" />
+      <file href="html5/data/js/6E1xUFrW2bV.js" />
+      <file href="html5/data/js/6o8QotqhMR2.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
